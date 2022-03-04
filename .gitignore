@@ -1,0 +1,9 @@
+build
+dist
+physicsexp.egg-info
+Old
+
+*.pyc
+__pycache__
+.idea
+package
