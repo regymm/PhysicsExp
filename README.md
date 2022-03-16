@@ -52,6 +52,12 @@ python3 ./physicsexp/example/plot.py
 
 You'll see graphs poped out and saved to .png, a generated gen.docx ready to print, and calculations printed to output, in the `./physicsexp/example` directory. You can also clone USTCPhysExpData to try some real-life cases. Then you can modify the code or write your own code to process your data!
 
+**Configure font on macOS or Linux**
+
+See (https://zhuanlan.zhihu.com/p/40931776)[https://zhuanlan.zhihu.com/p/40931776].
+
+Notice that the cache file of matplot may differ according to your OS.
+
 ## Example Script Explained
 
 It is a real-case example of input several lines of data, plot the data and do linear regression, and generate a printable docx document containing plot and analyse results. 
